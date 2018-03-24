@@ -32,10 +32,6 @@
         </developer>
     </developers>
 
-    <prerequisites>
-        <maven>3.0.4</maven>
-    </prerequisites>
-
     <properties>
         <skipTests>false</skipTests>
         <jdkVersion>1.6</jdkVersion>
