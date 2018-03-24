@@ -3,5 +3,5 @@ sudo: false
 script: mvn clean verify
 notifications:
   email:
-    on_success: always
+    on_success: change
     on_failure: always
